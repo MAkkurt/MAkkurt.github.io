@@ -1,8 +1,5 @@
 ---
 published: false
 ---
-## A New Post
-
-testar igen
-##
+## This website is copyright @ MAkkurt
 
